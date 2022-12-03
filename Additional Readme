@@ -1,0 +1,7 @@
+This is a simple python program to see and read or even make temporary changes in the data-set.
+
+Put the CSV wherever in your computer and don't forget to change the location of the read_csv command in the python file.
+
+There are many places where the file is read so double check each line carefully else the program will throw an error.
+
+The CSV file is attached along with a Report.
